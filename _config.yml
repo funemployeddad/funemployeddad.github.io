@@ -1,15 +1,15 @@
 # Site settings
-title: FunEmployedDad
+title: Becoming a Developer
 header-img: img/home-bg.png
-email: funemployeddad@gmail.com
+email: josh.kramer.dev@gmail.com
 copyright_name: funemployeddad
 description: > # this means to ignore newlines until "baseurl:"
   Living the Dream
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: 
+twitter_username: FunEmployedDad
 github_username:  funemployeddad
 learn_profile: funemployeddad
-email_username: funemployeddad@gmail.com
+email_username: josh.kramer.dev@gmail.com
 
 # Build settings
 markdown: kramdown
